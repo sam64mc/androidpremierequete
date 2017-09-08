@@ -5,5 +5,7 @@
     <string name="firstname">Prénom</string>
     <string name="lastname">Nom</string>
     <string name="validate">Valider</string>
+    <string name="error">Tu dois renseigner le nom et le prénom !</string>
+    <string name="congratulation">Félicitations</string>
 
 </resources>
